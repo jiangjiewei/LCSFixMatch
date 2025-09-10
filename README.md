@@ -30,3 +30,9 @@ Other packages are as follows:
 * protobuf: 3.13.0
 * h5py: 3.5.0
 * albumentations: 1.3.1
+
+# Usage
+* The file "train.py" in LCSFixMatch is used for the semi-supervised model training.
+
+* Please feel free to contact us for any questions or comments: Jiewei Jiang, E-mail: jiangjw924@126.com or Li Kuan, E-mail: 3396063131@qq.com.
+
